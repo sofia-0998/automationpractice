@@ -1,0 +1,6 @@
+en el desarrollo -> herramientas q nos permitan trabajar de manera colaborativa
+git permite esto, se adapata a todo tipo de proyectos, guardar una linea dle tiempo a lo largo del tiempo
+se guardan archivos en los repositorios
+github es como una nube, q nos permite alojar los repositorios y nos permite trabajar de manera publica o privada
+<<< toma de notas >>>
+
